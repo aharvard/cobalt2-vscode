@@ -35,17 +35,17 @@
 ```
 ## Colours
 
-| Name             | Hex     |   |
-|------------------|---------|---|
-| Blue             | #193549 |<img alt="Blue swatch" src="https://placehold.jp/24/193549/fff/20x20.png?text=%20">|
-| Blue Highlight   | #1F4662 |<img alt="Blue Highlight swatch" src="https://placehold.jp/24/1F4662/fff/20x20.png?text=%20">|
-| Blue Highlight2  | #234E6D |<img alt="Blue Highlight2 swatch" src="https://placehold.jp/24/234E6D/fff/20x20.png?text=%20">|
-| Blue Dark        | #122738 |<img alt="Blue Dark swatch" src="https://placehold.jp/24/122738/fff/20x20.png?text=%20">|
-| Yellow           | #ffc600 |<img alt="Yellow swatch" src="https://placehold.jp/24/ffc600/fff/20x20.png?text=%20">| 
-| Hot Pink         | #ff0088 |<img alt="Hot Pink swatch" src="https://placehold.jp/24/ff0088/fff/20x20.png?text=%20">| 
-| Blush Pink       | #ff628c |<img alt="Hot Pink swatch" src="https://placehold.jp/24/ff628c/fff/20x20.png?text=%20">|
-| Orange           | #ff9d00 |<img alt="Orange swatch" src="https://placehold.jp/24/ff9d00/fff/20x20.png?text=%20">|
-| Green            | #3ad900 |<img alt="Green swatch" src="https://placehold.jp/24/3ad900/fff/20x20.png?text=%20">|
+| Name            | Hex       |   |
+|-----------------|-----------|---|
+| Blue            | `#193549` |<img alt="Blue swatch" src="https://placehold.jp/24/193549/fff/20x20.png?text=%20">|
+| Blue Highlight  | `#1F4662` |<img alt="Blue Highlight swatch" src="https://placehold.jp/24/1F4662/fff/20x20.png?text=%20">|
+| Blue Highlight2 | `#234E6D` |<img alt="Blue Highlight2 swatch" src="https://placehold.jp/24/234E6D/fff/20x20.png?text=%20">|
+| Blue Dark       | `#122738` |<img alt="Blue Dark swatch" src="https://placehold.jp/24/122738/fff/20x20.png?text=%20">|
+| Yellow          | `#ffc600` |<img alt="Yellow swatch" src="https://placehold.jp/24/ffc600/fff/20x20.png?text=%20">| 
+| Hot Pink        | `#ff0088` |<img alt="Hot Pink swatch" src="https://placehold.jp/24/ff0088/fff/20x20.png?text=%20">| 
+| Blush Pink      | `#ff628c` |<img alt="Hot Pink swatch" src="https://placehold.jp/24/ff628c/fff/20x20.png?text=%20">|
+| Orange          | `#ff9d00` |<img alt="Orange swatch" src="https://placehold.jp/24/ff9d00/fff/20x20.png?text=%20">|
+| Green           | `#3ad900` |<img alt="Green swatch" src="https://placehold.jp/24/3ad900/fff/20x20.png?text=%20">|
 
 ## Contributing
 
